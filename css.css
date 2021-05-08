@@ -173,7 +173,7 @@ text-transform: uppercase;
     animation-name: flicker;  
     
     left:152px;
-    top:700px;
+    top:650px;
      
     background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
 background-size:contain ;
@@ -198,7 +198,7 @@ text-transform: uppercase;
         position: absolute;
         animation-name: flicker;  
         left:1400px;
-        top:700px;
+        top:650px;
     
     background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
 background-size:contain ;
@@ -246,7 +246,7 @@ text-transform: uppercase;
                 
                
                     
-                top:4.38vw;
+                top:3.38vw;
                 left:7.50vw;
                 
                
@@ -258,8 +258,8 @@ text-transform: uppercase;
                 
                   
                     
-                    top:4.38vw;
-                    left:70.50vw;
+                    top:3.38vw;
+                    left:73vw;
                
                 
                     }
@@ -270,7 +270,7 @@ text-transform: uppercase;
                     
                        
                     left:40.94vw;
-                    top:20.56vw;
+                    top:17.56vw;
                     width: 21.88vw;
            
                         }
@@ -283,7 +283,7 @@ text-transform: uppercase;
                         
                            
                     left:7.50vw;
-                    top:36.75vw;
+                    top:33,5vw;
                      
                  
                             }
@@ -294,8 +294,8 @@ text-transform: uppercase;
                         .years1944{
                         
                         
-                        left:70.50vw;
-                        top:36.75vw;
+                        left:73vw;
+                        top:33,5vw;
          
                 
             }
@@ -311,7 +311,7 @@ text-transform: uppercase;
 
 
 
-            @media only screen and (max-width:1600px){
+            @media only screen and (max-width:1800px){
 
 
 
@@ -367,7 +367,7 @@ body{
   position: absolute;
       animation-name: flicker;  
       
-  top:4.38vw;
+  top:2.38vw;
   left:7.50vw;
   
   
@@ -396,7 +396,7 @@ body{
   position: absolute;
       animation-name: flicker;  
       
-      top:4.38vw;
+      top:2.38vw;
       left:70.50vw;
       
   background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
@@ -424,7 +424,7 @@ body{
       animation-name: flicker;  
       
       left:40.94vw;
-      top:20.56vw;
+      top:17.56vw;
       width: 21.88vw;
   
   background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
@@ -452,7 +452,7 @@ body{
           position: absolute;
       animation-name: flicker;  
       left:7.50vw;
-      top:36.75vw;
+      top:32.75vw;
        
       background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
   background-size:contain ;
@@ -477,7 +477,7 @@ body{
           position: absolute;
           animation-name: flicker;  
           left:70.50vw;
-          top:36.75vw;
+          top:32.75vw;
       
       background-image: url('img/AbandonedAnguishedCatfish-size_restricted.gif');
   background-size:contain ;
